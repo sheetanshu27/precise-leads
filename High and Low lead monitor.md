@@ -9,6 +9,9 @@ SmartLead: Used for scraping lead details via API.
 Make: Platform for automating workflows and performing analytics.
 Slack: For notifications regarding bounce rate and lead count issues.
 
+Api integration:
+https://server.smartlead.ai/api/v1/campaigns/{{2.id}}/analytics?
+
 # Workflow
 Data Collection:
 Scrape lead details from SmartLead using its API.
